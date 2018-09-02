@@ -1,4 +1,3 @@
 # coursetro
 
 Coursetro tutorial
-```
